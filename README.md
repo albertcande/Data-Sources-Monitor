@@ -91,6 +91,7 @@ The application will:
 2025-12-18 12:05:04 - QlikClient - INFO - API Response: {"id":"...","enabled":true,"type":"warning",...}
 2025-12-18 12:05:04 - MainOrchestrator - INFO - Banner updated successfully.
 ```
+<img width="718" height="147" alt="image" src="https://github.com/user-attachments/assets/43d016e2-0c02-4746-bb22-db60ce0cbeb2" />
 
 ## Adding New Monitors
 
