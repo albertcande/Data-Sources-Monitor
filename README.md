@@ -43,8 +43,8 @@ A lightweight Python application that monitors the health status of external ser
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/albertcande/Qlik-Cloud-Data-Sources-Monitor.git
-   cd qlik-cloud-data-sources-monitor
+   git clone https://github.com/albertcande/Data-Sources-Monitor.git
+   cd data-sources-monitor
    ```
 
 2. **Create a virtual environment** (recommended):
@@ -157,3 +157,5 @@ MIT License
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
+
+This project is not affiliated with or endorsed by Qlik.
