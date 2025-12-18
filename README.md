@@ -43,7 +43,7 @@ A lightweight Python application that monitors the health status of external ser
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/qlik-cloud-status-monitor.git
+   git clone https://github.com/albertcande/Qlik-Cloud-Data-Sources-Monitor.git
    cd qlik-cloud-status-monitor
    ```
 
